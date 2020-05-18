@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260370515677",
+    "firebase_url": "https://signin-47c13.firebaseio.com",
+    "project_id": "signin-47c13",
+    "storage_bucket": "signin-47c13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260370515677:android:2ba8358689abd7a0ac7d34",
+        "android_client_info": {
+          "package_name": "com.kevinhomorales.signinfirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260370515677-53m343sb848blbfdo5kr0s6p2b5eqilg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhoAuApRB88ifesoQdwn4Q5r9_j6DuMIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260370515677-53m343sb848blbfdo5kr0s6p2b5eqilg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260370515677-plkk9hccs1i673s53aekjb8e09qcu2rb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kevinhomorales.signinfirebaseswift"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
